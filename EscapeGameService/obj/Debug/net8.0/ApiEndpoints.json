@@ -1,0 +1,184 @@
+[
+  {
+    "ContainingType": "EscapeGameService.Controllers.GenericControlleur\u00604[[EscapeGameService.Models.Escapegame, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[EscapeGameService.Dto.EscapeGame.GetEscapeGameDto, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[EscapeGameService.Dto.EscapeGame.AddEscapeGameDto, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[EscapeGameService.Dto.EscapeGame.UpdateEscapeGameDto, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Getpage",
+    "RelativePath": "api/v1/EscapeGame",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "EscapeGameService.Models.DataType.ServiceResponse\u00601[[EscapeGameService.Dto.EscapeGame.GetEscapeGameDto, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EscapeGameService.Controllers.GenericControlleur\u00604[[EscapeGameService.Models.Escapegame, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[EscapeGameService.Dto.EscapeGame.GetEscapeGameDto, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[EscapeGameService.Dto.EscapeGame.AddEscapeGameDto, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[EscapeGameService.Dto.EscapeGame.UpdateEscapeGameDto, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/v1/EscapeGame",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateDto",
+        "Type": "EscapeGameService.Dto.EscapeGame.UpdateEscapeGameDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EscapeGameService.Models.DataType.ServiceResponse\u00601[[EscapeGameService.Dto.EscapeGame.GetEscapeGameDto, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EscapeGameService.Controllers.GenericControlleur\u00604[[EscapeGameService.Models.Escapegame, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[EscapeGameService.Dto.EscapeGame.GetEscapeGameDto, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[EscapeGameService.Dto.EscapeGame.AddEscapeGameDto, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[EscapeGameService.Dto.EscapeGame.UpdateEscapeGameDto, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/v1/EscapeGame/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EscapeGameService.Models.DataType.ServiceResponse\u00601[[EscapeGameService.Dto.EscapeGame.GetEscapeGameDto, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EscapeGameService.Controllers.GenericControlleur\u00604[[EscapeGameService.Models.Escapegame, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[EscapeGameService.Dto.EscapeGame.GetEscapeGameDto, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[EscapeGameService.Dto.EscapeGame.AddEscapeGameDto, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[EscapeGameService.Dto.EscapeGame.UpdateEscapeGameDto, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/v1/EscapeGame/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "creationDto",
+        "Type": "EscapeGameService.Dto.EscapeGame.AddEscapeGameDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EscapeGameService.Models.DataType.ServiceResponse\u00601[[EscapeGameService.Dto.EscapeGame.GetEscapeGameDto, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EscapeGameService.Controllers.GenericControlleur\u00604[[EscapeGameService.Models.Escapegame, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[EscapeGameService.Dto.EscapeGame.GetEscapeGameDto, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[EscapeGameService.Dto.EscapeGame.AddEscapeGameDto, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[EscapeGameService.Dto.EscapeGame.UpdateEscapeGameDto, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/v1/EscapeGame/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EscapeGameService.Models.DataType.ServiceResponse\u00601[[EscapeGameService.Dto.EscapeGame.GetEscapeGameDto, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EscapeGameService.Controllers.TestController",
+    "Method": "GetCloudinaryFile",
+    "RelativePath": "api/v1/Test/cloudinary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "GetMyFile",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscapeGameService.Controllers.TestController",
+    "Method": "CreateCloudinaryFile",
+    "RelativePath": "api/v1/Test/cloudinary",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "postMyFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EscapeGameService.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "api/v1/WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[EscapeGameService.WeatherForecast, EscapeGameService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

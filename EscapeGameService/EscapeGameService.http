@@ -1,0 +1,6 @@
+@EscapeGameService_HostAddress = http://localhost:5258
+
+GET {{EscapeGameService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
