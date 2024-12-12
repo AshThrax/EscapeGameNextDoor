@@ -27,6 +27,7 @@
     <Folder Include="Models\Modération\" />
     <Folder Include="Repository\Events\" />
     <Folder Include="Repository\Favoris\" />
+    <Folder Include="Validator\Validator\" />
   </ItemGroup>
 
 </Project>

@@ -12,6 +12,7 @@
         public DbSet<Event> Events { get; set; }
         public DbSet<Publication> Publications { get; set; }
         public DbSet<PublicationType> PublicationTypes { get; set; }
+        public DbSet<TypeLike> TypeLike { get; set; }
         public DbSet<HasLike> HasLike { get; set; }
         public DbSet<Rating> Rating { get; set; }
         public DbSet<HasBeenDone> HasBeenDones { get; set; }

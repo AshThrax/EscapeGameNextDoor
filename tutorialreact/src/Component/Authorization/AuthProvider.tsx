@@ -1,16 +1,52 @@
-import { createContext } from "vm";
+import { Auth0Context, useAuth0 } from "@auth0/auth0-react";
 
-type AuthContext = {
-    authtoken?: string | null;
-    currentuser?: User | null;
-    handlelogin: () => promise<void>;
-    handlelogout: () => Promise<void>;
+type AuthorizationWrapper={
+    children: React.ReactNode;
 }
 
-const AuthContext = createContext<AuthContext | undefined>(undefined);
-type AuthProvidersProps= PropsWithChildren;
-
-export default function AuthProvider({children} : AuthProvidersProps)
+const AuthWrapper: React.FC<AuthorizationWrapper> =({children}) =>
 {
-    return <AuthContext.Provider> {children}</AuthContext.Provider>
+    const isAuthentication = useAuth0();
+
+    if(isAuthentication)
+    {
+        return(
+        <>
+            {children}
+        </>);
+    }
+    else
+    {
+        return(
+        <>
+            <p> Your're </p>
+        </>);
+    }
 }
+
+export default AuthWrapper;
+
+
+const AuthAdminWrapper: React.FC<AuthorizationWrapper> =({children}) =>
+    {
+        const isAuthentication = useAuth0().isAuthenticated;
+        const isAdmin  = useAuth0().;
+        const 
+        if(isAuthentication && )
+        {
+            return(
+            <>
+                {children}
+            </>);
+        }
+        else
+        {
+            return(
+            <>
+                <p> Your're </p>
+            </>);
+        }
+}
+    
+export  {AuthAdminWrapper};
+    

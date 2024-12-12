@@ -33,6 +33,7 @@ namespace EscapeGameService.Repository
             }
         }
 
+        public IQueryable<T> Query()=>_dataContext.Set<T>().AsNoTracking();
         public async Task<T> DeleteAsync(int id)
         {
             try

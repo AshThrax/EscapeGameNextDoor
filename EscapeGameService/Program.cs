@@ -21,6 +21,8 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+    //inject data base seed 
+   await app.AddSeedDatabaseInjection();
 }
 
 app.UseHttpsRedirection();

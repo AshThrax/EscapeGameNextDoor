@@ -40,5 +40,7 @@ namespace EscapeGameService.ExtensionMethods
 
             return services;
         }
+
+
     }
 }

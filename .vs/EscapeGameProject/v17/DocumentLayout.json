@@ -3,6 +3,118 @@
   "WorkspaceRootPath": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\extensionmethods\\seedinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\extensionmethods\\seedinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\extensionmethods\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\extensionmethods\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\models\\sessiongame\\dayoftheweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\models\\sessiongame\\dayoftheweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\validator\\abstractvalidator\\abstractvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\validator\\abstractvalidator\\abstractvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\escapegameservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\escapegameservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\services\\tool\\httpcallbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\services\\tool\\httpcallbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\escapegame\\escaperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\escapegame\\escaperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\escapegame\\iescaperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\escapegame\\iescaperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\session\\isessiongamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\session\\isessiongamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\session\\sessiongamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\session\\sessiongamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\categorie\\categorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\categorie\\categorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\categorie\\icategorierepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\categorie\\icategorierepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\publication\\haslikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\publication\\haslikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\subcategorie\\subcategorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\subcategorie\\subcategorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\subcategorie\\isubcategorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\subcategorie\\isubcategorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\publication\\publicationtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\publication\\publicationtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\publication\\ipublicationtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\publication\\ipublicationtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\publication\\ihaslikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\publication\\ihaslikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\models\\sessiongame\\sessionreserved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\models\\sessiongame\\sessionreserved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\activityplaces\\iactivityplacetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\activityplaces\\iactivityplacetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\activityplaces\\iactivityplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\activityplaces\\iactivityplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\activityplaces\\activityplacetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\activityplaces\\activityplacetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\activityplaces\\activityplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\activityplaces\\activityplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{98EE07F6-B0C8-40A0-919C-B7E9A974BF32}|UserService\\UserService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\userservice\\extensionmethods\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98EE07F6-B0C8-40A0-919C-B7E9A974BF32}|UserService\\UserService.csproj|solutionrelative:userservice\\extensionmethods\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,22 +155,6 @@
       "RelativeMoniker": "D:0:0:{98EE07F6-B0C8-40A0-919C-B7E9A974BF32}|UserService\\UserService.csproj|solutionrelative:userservice\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\activityplaces\\activityplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\activityplaces\\activityplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\activityplaces\\activityplacetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\activityplaces\\activityplacetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\activityplaces\\iactivityplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\activityplaces\\iactivityplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\escapegame\\escaperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\escapegame\\escaperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\models\\params\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\models\\params\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -93,18 +189,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\models\\activityplaces\\activityplaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\models\\activityplaces\\activityplaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\escapegame\\iescaperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\escapegame\\iescaperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\services\\activityplace\\activityplaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -167,10 +251,6 @@
       "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\activityplaces\\iactivityplacetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\activityplaces\\iactivityplacetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\shared\\errormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\shared\\errormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -189,14 +269,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\controllers\\genericcontrolleur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\controllers\\genericcontrolleur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\extensionmethods\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\extensionmethods\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -243,26 +315,6 @@
       "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\services\\tool\\httpcallbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\services\\tool\\httpcallbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\publication\\publicationtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\publication\\publicationtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\publication\\ipublicationtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\publication\\ipublicationtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\categorie\\categorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\categorie\\categorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\categorie\\icategorierepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\categorie\\icategorierepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{41808E8E-6EC2-45D9-8AE4-6F0B05A0D48E}|Notificaton\\NotificationService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\notificaton\\services\\interface\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41808E8E-6EC2-45D9-8AE4-6F0B05A0D48E}|Notificaton\\NotificationService.csproj|solutionrelative:notificaton\\services\\interface\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -273,14 +325,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{41808E8E-6EC2-45D9-8AE4-6F0B05A0D48E}|Notificaton\\NotificationService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\notificaton\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41808E8E-6EC2-45D9-8AE4-6F0B05A0D48E}|Notificaton\\NotificationService.csproj|solutionrelative:notificaton\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\publication\\haslikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\publication\\haslikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\publication\\ihaslikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\publication\\ihaslikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\services\\adminservice\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -315,14 +359,6 @@
       "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\admin\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\subcategorie\\subcategorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\subcategorie\\subcategorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\subcategorie\\isubcategorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\subcategorie\\isubcategorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\repository\\admin\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\repository\\admin\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -351,20 +387,8 @@
       "RelativeMoniker": "D:0:0:{41808E8E-6EC2-45D9-8AE4-6F0B05A0D48E}|Notificaton\\NotificationService.csproj|solutionrelative:notificaton\\repository\\annonce\\annoncerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\models\\sessiongame\\sessionreserved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\models\\sessiongame\\sessionreserved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\models\\sessiongame\\sessiongame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\models\\sessiongame\\sessiongame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\models\\sessiongame\\dayoftheweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|solutionrelative:escapegameservice\\models\\sessiongame\\dayoftheweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A83F97F-9983-43B0-B126-469CA3FF8C82}|EscapeGameService\\EscapeGameService.csproj|c:\\users\\quentin\\source\\repos\\escapegameproject\\escapegameservice\\models\\categorie\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -530,28 +554,105 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1215,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 100,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedInjection.cs",
+              "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\ExtensionMethods\\SeedInjection.cs",
+              "RelativeDocumentMoniker": "EscapeGameService\\ExtensionMethods\\SeedInjection.cs",
+              "ToolTip": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\ExtensionMethods\\SeedInjection.cs",
+              "RelativeToolTip": "EscapeGameService\\ExtensionMethods\\SeedInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:42:02.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "EscapeGameService\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Data\\SeedData.cs",
+              "RelativeToolTip": "EscapeGameService\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:25:55.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AbstractValidator.cs",
+              "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Validator\\AbstractValidator\\AbstractValidator.cs",
+              "RelativeDocumentMoniker": "EscapeGameService\\Validator\\AbstractValidator\\AbstractValidator.cs",
+              "ToolTip": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Validator\\AbstractValidator\\AbstractValidator.cs",
+              "RelativeToolTip": "EscapeGameService\\Validator\\AbstractValidator\\AbstractValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:24:41.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EscapeGameService",
+              "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\EscapeGameService.csproj",
+              "RelativeDocumentMoniker": "EscapeGameService\\EscapeGameService.csproj",
+              "ToolTip": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\EscapeGameService.csproj",
+              "RelativeToolTip": "EscapeGameService\\EscapeGameService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T12:22:57.866Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
+              "Title": "SessionGameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\Session\\SessionGameRepository.cs",
+              "RelativeDocumentMoniker": "EscapeGameService\\Repository\\Session\\SessionGameRepository.cs",
+              "ToolTip": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\Session\\SessionGameRepository.cs",
+              "RelativeToolTip": "EscapeGameService\\Repository\\Session\\SessionGameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:02:01.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISessionGameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\Session\\ISessionGameRepository.cs",
+              "RelativeDocumentMoniker": "EscapeGameService\\Repository\\Session\\ISessionGameRepository.cs",
+              "ToolTip": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\Session\\ISessionGameRepository.cs",
+              "RelativeToolTip": "EscapeGameService\\Repository\\Session\\ISessionGameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:00:29.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\UserService\\ExtensionMethods\\TokenService.cs",
               "RelativeDocumentMoniker": "UserService\\ExtensionMethods\\TokenService.cs",
               "ToolTip": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\UserService\\ExtensionMethods\\TokenService.cs",
               "RelativeToolTip": "UserService\\ExtensionMethods\\TokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowB8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T19:55:35.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T19:55:35.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 32,
               "Title": "MinimalApiExtension.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\UserService\\ExtensionMethods\\MinimalApiExtension.cs",
               "RelativeDocumentMoniker": "UserService\\ExtensionMethods\\MinimalApiExtension.cs",
@@ -559,12 +660,11 @@
               "RelativeToolTip": "UserService\\ExtensionMethods\\MinimalApiExtension.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T13:44:07.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T13:44:07.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 33,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\UserService\\ExtensionMethods\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "UserService\\ExtensionMethods\\DependencyInjection.cs",
@@ -572,12 +672,11 @@
               "RelativeToolTip": "UserService\\ExtensionMethods\\DependencyInjection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T13:26:56.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T13:26:56.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 37,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\UserService\\Data\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "UserService\\Data\\ApplicationUser.cs",
@@ -585,12 +684,11 @@
               "RelativeToolTip": "UserService\\Data\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T13:24:21.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T13:24:21.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 36,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\UserService\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "UserService\\Data\\DataContext.cs",
@@ -598,12 +696,11 @@
               "RelativeToolTip": "UserService\\Data\\DataContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T13:23:40.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T13:23:40.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 38,
               "Title": "RabbitMQSettings.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\Params\\RabbitMQSettings.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\Params\\RabbitMQSettings.cs",
@@ -611,12 +708,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\Params\\RabbitMQSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T16:37:43.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T16:37:43.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 57,
               "Title": "PlaceType.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Dto\\Activity\\PlaceType.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Dto\\Activity\\PlaceType.cs",
@@ -624,12 +720,11 @@
               "RelativeToolTip": "EscapeGameService\\Dto\\Activity\\PlaceType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T15:22:37.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T15:22:37.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 54,
               "Title": "UpdateActivityPlaceTypeDto.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Dto\\Activity\\UpdateActivityPlaceTypeDto.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Dto\\Activity\\UpdateActivityPlaceTypeDto.cs",
@@ -637,12 +732,11 @@
               "RelativeToolTip": "EscapeGameService\\Dto\\Activity\\UpdateActivityPlaceTypeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T13:16:52.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T13:16:52.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 55,
               "Title": "AddActivityPlaceTypeDto.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Dto\\Activity\\AddActivityPlaceTypeDto.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Dto\\Activity\\AddActivityPlaceTypeDto.cs",
@@ -650,12 +744,11 @@
               "RelativeToolTip": "EscapeGameService\\Dto\\Activity\\AddActivityPlaceTypeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T13:15:36.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T13:15:36.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 48,
               "Title": "GetActivityPlaceTypeDto.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Dto\\Activity\\GetActivityPlaceTypeDto.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Dto\\Activity\\GetActivityPlaceTypeDto.cs",
@@ -663,12 +756,11 @@
               "RelativeToolTip": "EscapeGameService\\Dto\\Activity\\GetActivityPlaceTypeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T13:14:05.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T13:14:05.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 52,
               "Title": "GetActivityPlaceDto.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Dto\\Activity\\GetActivityPlaceDto.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Dto\\Activity\\GetActivityPlaceDto.cs",
@@ -676,12 +768,11 @@
               "RelativeToolTip": "EscapeGameService\\Dto\\Activity\\GetActivityPlaceDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T13:11:37.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T13:11:37.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 53,
               "Title": "UpdateActivityPlaceDto.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Dto\\Activity\\UpdateActivityPlaceDto.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Dto\\Activity\\UpdateActivityPlaceDto.cs",
@@ -689,12 +780,11 @@
               "RelativeToolTip": "EscapeGameService\\Dto\\Activity\\UpdateActivityPlaceDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T13:10:49.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T13:10:49.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 56,
               "Title": "AddActivityPlaceDto.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Dto\\Activity\\AddActivityPlaceDto.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Dto\\Activity\\AddActivityPlaceDto.cs",
@@ -702,12 +792,11 @@
               "RelativeToolTip": "EscapeGameService\\Dto\\Activity\\AddActivityPlaceDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T13:10:12.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T13:10:12.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 39,
               "Title": "CloudDinarySettings.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\Params\\CloudDinarySettings.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\Params\\CloudDinarySettings.cs",
@@ -715,12 +804,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\Params\\CloudDinarySettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T11:25:25.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T11:25:25.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 59,
               "Title": "ICloudinaryService.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Services\\Cloudinary\\ICloudinaryService.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Services\\Cloudinary\\ICloudinaryService.cs",
@@ -728,12 +816,11 @@
               "RelativeToolTip": "EscapeGameService\\Services\\Cloudinary\\ICloudinaryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T11:20:37.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T11:20:37.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 65,
               "Title": "CloudinaryService.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Services\\Cloudinary\\CloudinaryService.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Services\\Cloudinary\\CloudinaryService.cs",
@@ -741,12 +828,11 @@
               "RelativeToolTip": "EscapeGameService\\Services\\Cloudinary\\CloudinaryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T11:20:23.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T11:20:23.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 77,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Controllers\\WeatherForecastController.cs",
@@ -754,12 +840,11 @@
               "RelativeToolTip": "EscapeGameService\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T11:07:06.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T11:07:06.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 60,
               "Title": "TestController.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Controllers\\TestController.cs",
@@ -767,25 +852,24 @@
               "RelativeToolTip": "EscapeGameService\\Controllers\\TestController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAiwCwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T10:47:46.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T10:47:46.428Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 8,
               "Title": "HttpCallBuilder.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Services\\Tool\\HttpCallBuilder.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Services\\Tool\\HttpCallBuilder.cs",
               "ToolTip": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Services\\Tool\\HttpCallBuilder.cs",
               "RelativeToolTip": "EscapeGameService\\Services\\Tool\\HttpCallBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwD4AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T22:54:20.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 47,
               "Title": "ActivityPlaceService.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Services\\ActivityPlace\\ActivityPlaceService.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Services\\ActivityPlace\\ActivityPlaceService.cs",
@@ -793,12 +877,11 @@
               "RelativeToolTip": "EscapeGameService\\Services\\ActivityPlace\\ActivityPlaceService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T22:42:10.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T22:42:10.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 49,
               "Title": "IActivityPlaceService.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Services\\ActivityPlace\\IActivityPlaceService.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Services\\ActivityPlace\\IActivityPlaceService.cs",
@@ -806,12 +889,11 @@
               "RelativeToolTip": "EscapeGameService\\Services\\ActivityPlace\\IActivityPlaceService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T22:41:22.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T22:41:22.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 26,
               "Title": "ActivityPlaceTypeRepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\ActivityPlaces\\ActivityPlaceTypeRepository.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Repository\\ActivityPlaces\\ActivityPlaceTypeRepository.cs",
@@ -819,12 +901,11 @@
               "RelativeToolTip": "EscapeGameService\\Repository\\ActivityPlaces\\ActivityPlaceTypeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T22:37:58.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T22:37:58.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 24,
               "Title": "IActivityPlaceTypeRepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\ActivityPlaces\\IActivityPlaceTypeRepository.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Repository\\ActivityPlaces\\IActivityPlaceTypeRepository.cs",
@@ -832,12 +913,11 @@
               "RelativeToolTip": "EscapeGameService\\Repository\\ActivityPlaces\\IActivityPlaceTypeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T22:37:21.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T22:37:21.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
               "Title": "IActivityPlaceRepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\ActivityPlaces\\IActivityPlaceRepository.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Repository\\ActivityPlaces\\IActivityPlaceRepository.cs",
@@ -845,25 +925,23 @@
               "RelativeToolTip": "EscapeGameService\\Repository\\ActivityPlaces\\IActivityPlaceRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T22:33:29.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T22:33:29.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 27,
               "Title": "ActivityPlaceRepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\ActivityPlaces\\ActivityPlaceRepository.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Repository\\ActivityPlaces\\ActivityPlaceRepository.cs",
               "ToolTip": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\ActivityPlaces\\ActivityPlaceRepository.cs",
               "RelativeToolTip": "EscapeGameService\\Repository\\ActivityPlaces\\ActivityPlaceRepository.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAmwE4AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwE4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T22:33:23.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T22:33:23.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 18,
               "Title": "PublicationTypeRepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\Publication\\PublicationTypeRepository.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Repository\\Publication\\PublicationTypeRepository.cs",
@@ -871,12 +949,11 @@
               "RelativeToolTip": "EscapeGameService\\Repository\\Publication\\PublicationTypeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T22:18:06.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T22:18:06.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 19,
               "Title": "IPublicationTypeRepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\Publication\\IPublicationTypeRepository.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Repository\\Publication\\IPublicationTypeRepository.cs",
@@ -884,12 +961,11 @@
               "RelativeToolTip": "EscapeGameService\\Repository\\Publication\\IPublicationTypeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T22:17:15.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T22:17:15.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 15,
               "Title": "HasLikeRepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\Publication\\HasLikeRepository.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Repository\\Publication\\HasLikeRepository.cs",
@@ -897,12 +973,11 @@
               "RelativeToolTip": "EscapeGameService\\Repository\\Publication\\HasLikeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T22:15:57.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T22:15:57.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 20,
               "Title": "IHasLikeRepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\Publication\\IHasLikeRepository.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Repository\\Publication\\IHasLikeRepository.cs",
@@ -910,12 +985,11 @@
               "RelativeToolTip": "EscapeGameService\\Repository\\Publication\\IHasLikeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T22:15:40.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T22:15:40.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 16,
               "Title": "SubCategorieRepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\SubCategorie\\SubCategorieRepository.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Repository\\SubCategorie\\SubCategorieRepository.cs",
@@ -923,12 +997,11 @@
               "RelativeToolTip": "EscapeGameService\\Repository\\SubCategorie\\SubCategorieRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T22:03:57.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T22:03:57.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 17,
               "Title": "ISubCategorieRepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\SubCategorie\\ISubCategorieRepository.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Repository\\SubCategorie\\ISubCategorieRepository.cs",
@@ -936,38 +1009,35 @@
               "RelativeToolTip": "EscapeGameService\\Repository\\SubCategorie\\ISubCategorieRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T22:03:14.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T22:03:14.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 13,
               "Title": "CategorieRepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\Categorie\\CategorieRepository.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Repository\\Categorie\\CategorieRepository.cs",
               "ToolTip": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\Categorie\\CategorieRepository.cs",
               "RelativeToolTip": "EscapeGameService\\Repository\\Categorie\\CategorieRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwC4AAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T22:00:51.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T22:00:51.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 14,
               "Title": "ICategorieRepositorycs.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\Categorie\\ICategorieRepositorycs.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Repository\\Categorie\\ICategorieRepositorycs.cs",
               "ToolTip": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\Categorie\\ICategorieRepositorycs.cs",
               "RelativeToolTip": "EscapeGameService\\Repository\\Categorie\\ICategorieRepositorycs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T22:00:20.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T22:00:20.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 58,
               "Title": "AdminService.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Services\\AdminService\\AdminService.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Services\\AdminService\\AdminService.cs",
@@ -975,12 +1045,11 @@
               "RelativeToolTip": "EscapeGameService\\Services\\AdminService\\AdminService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T21:20:32.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T21:20:32.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 81,
               "Title": "IAdminService.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Services\\AdminService\\IAdminService.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Services\\AdminService\\IAdminService.cs",
@@ -988,12 +1057,11 @@
               "RelativeToolTip": "EscapeGameService\\Services\\AdminService\\IAdminService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T21:18:48.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T21:18:48.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 88,
               "Title": "AdminRepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\Admin\\AdminRepository.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Repository\\Admin\\AdminRepository.cs",
@@ -1001,12 +1069,11 @@
               "RelativeToolTip": "EscapeGameService\\Repository\\Admin\\AdminRepository.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAowAMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T21:15:19.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T21:15:19.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 89,
               "Title": "IAdminRepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\Admin\\IAdminRepository.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Repository\\Admin\\IAdminRepository.cs",
@@ -1014,12 +1081,11 @@
               "RelativeToolTip": "EscapeGameService\\Repository\\Admin\\IAdminRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T21:15:04.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T21:15:04.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 83,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Data\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Data\\IUnitOfWork.cs",
@@ -1027,12 +1093,11 @@
               "RelativeToolTip": "EscapeGameService\\Data\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T20:49:40.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T20:49:40.967Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 86,
               "Title": "AddPublicationDto.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Dto\\Publication\\AddPublicationDto.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Dto\\Publication\\AddPublicationDto.cs",
@@ -1040,12 +1105,11 @@
               "RelativeToolTip": "EscapeGameService\\Dto\\Publication\\AddPublicationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T20:46:42.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T20:46:42.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 85,
               "Title": "UpdatePublicationDto.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Dto\\Publication\\UpdatePublicationDto.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Dto\\Publication\\UpdatePublicationDto.cs",
@@ -1053,12 +1117,11 @@
               "RelativeToolTip": "EscapeGameService\\Dto\\Publication\\UpdatePublicationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T20:46:28.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T20:46:28.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 84,
               "Title": "GetPublicationDto.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Dto\\Publication\\GetPublicationDto.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Dto\\Publication\\GetPublicationDto.cs",
@@ -1066,12 +1129,11 @@
               "RelativeToolTip": "EscapeGameService\\Dto\\Publication\\GetPublicationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T20:46:14.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T20:46:14.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 91,
               "Title": "GetCategorieDto.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Dto\\Categorie\\GetCategorieDto.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Dto\\Categorie\\GetCategorieDto.cs",
@@ -1079,12 +1141,11 @@
               "RelativeToolTip": "EscapeGameService\\Dto\\Categorie\\GetCategorieDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T20:43:06.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T20:43:06.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 68,
               "Title": "CategorieController.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Controllers\\CategorieController.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Controllers\\CategorieController.cs",
@@ -1092,12 +1153,11 @@
               "RelativeToolTip": "EscapeGameService\\Controllers\\CategorieController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T20:17:15.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T20:17:15.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 75,
               "Title": "RatingController.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Controllers\\UserController\\RatingController.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Controllers\\UserController\\RatingController.cs",
@@ -1105,12 +1165,11 @@
               "RelativeToolTip": "EscapeGameService\\Controllers\\UserController\\RatingController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T19:55:10.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T19:55:10.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 61,
               "Title": "PublicController.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Controllers\\PublicController.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Controllers\\PublicController.cs",
@@ -1118,12 +1177,11 @@
               "RelativeToolTip": "EscapeGameService\\Controllers\\PublicController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T19:53:23.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T19:53:23.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 72,
               "Title": "PaymentController.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Controllers\\PaymentController.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Controllers\\PaymentController.cs",
@@ -1131,12 +1189,11 @@
               "RelativeToolTip": "EscapeGameService\\Controllers\\PaymentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T19:51:05.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T19:51:05.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 76,
               "Title": "SessionController.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Controllers\\SessionController.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Controllers\\SessionController.cs",
@@ -1144,12 +1201,11 @@
               "RelativeToolTip": "EscapeGameService\\Controllers\\SessionController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T19:50:44.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T19:50:44.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 30,
               "Title": "IPublicationService.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Services\\Publication\\IPublicationService.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Services\\Publication\\IPublicationService.cs",
@@ -1157,12 +1213,11 @@
               "RelativeToolTip": "EscapeGameService\\Services\\Publication\\IPublicationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T19:41:38.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T19:41:38.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 35,
               "Title": "PublicationService.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Services\\Publication\\PublicationService.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Services\\Publication\\PublicationService.cs",
@@ -1170,12 +1225,11 @@
               "RelativeToolTip": "EscapeGameService\\Services\\Publication\\PublicationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T19:41:12.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T19:41:12.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 71,
               "Title": "PublicationController.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Controllers\\PublicationController.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Controllers\\PublicationController.cs",
@@ -1183,12 +1237,11 @@
               "RelativeToolTip": "EscapeGameService\\Controllers\\PublicationController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T19:37:59.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T19:37:59.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 73,
               "Title": "FavorisController.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Controllers\\UserController\\FavorisController.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Controllers\\UserController\\FavorisController.cs",
@@ -1196,12 +1249,11 @@
               "RelativeToolTip": "EscapeGameService\\Controllers\\UserController\\FavorisController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T19:36:59.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T19:36:59.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 74,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Controllers\\Admin\\AdminController.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Controllers\\Admin\\AdminController.cs",
@@ -1209,12 +1261,11 @@
               "RelativeToolTip": "EscapeGameService\\Controllers\\Admin\\AdminController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T19:33:28.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T19:33:28.026Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 92,
               "Title": "EscapeGameFilter.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Services\\Filter\\EscapeGameFilter.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Services\\Filter\\EscapeGameFilter.cs",
@@ -1222,8 +1273,7 @@
               "RelativeToolTip": "EscapeGameService\\Services\\Filter\\EscapeGameFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T19:32:45.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T19:32:45.693Z"
             },
             {
               "$type": "Document",
@@ -1233,27 +1283,25 @@
               "RelativeDocumentMoniker": "EscapeGameService\\Repository\\Repository.cs",
               "ToolTip": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\Repository.cs",
               "RelativeToolTip": "EscapeGameService\\Repository\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwCMAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:42:36.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:42:36.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\IRepository.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Repository\\IRepository.cs",
               "ToolTip": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\IRepository.cs",
               "RelativeToolTip": "EscapeGameService\\Repository\\IRepository.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAswB8AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwD4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:41:49.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:41:49.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 62,
               "Title": "ErrorManager.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Shared\\ErrorManager.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Shared\\ErrorManager.cs",
@@ -1261,12 +1309,11 @@
               "RelativeToolTip": "EscapeGameService\\Shared\\ErrorManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:09:37.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:09:37.854Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 63,
               "Title": "IEscapeGameService.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Services\\Escapesgame\\IEscapeGameService.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Services\\Escapesgame\\IEscapeGameService.cs",
@@ -1274,12 +1321,11 @@
               "RelativeToolTip": "EscapeGameService\\Services\\Escapesgame\\IEscapeGameService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:09:09.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:09:09.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 64,
               "Title": "EscapeGameService.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Services\\Escapesgame\\EscapeGameService.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Services\\Escapesgame\\EscapeGameService.cs",
@@ -1287,12 +1333,11 @@
               "RelativeToolTip": "EscapeGameService\\Services\\Escapesgame\\EscapeGameService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:09:05.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:09:05.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 70,
               "Title": "autoMapper.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\autoMapper.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\autoMapper.cs",
@@ -1300,25 +1345,24 @@
               "RelativeToolTip": "EscapeGameService\\autoMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:09:00.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:09:00.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 10,
               "Title": "IEscapeRepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\EscapeGame\\IEscapeRepository.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Repository\\EscapeGame\\IEscapeRepository.cs",
               "ToolTip": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\EscapeGame\\IEscapeRepository.cs",
               "RelativeToolTip": "EscapeGameService\\Repository\\EscapeGame\\IEscapeRepository.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAuwAYAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T18:08:56.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 69,
               "Title": "EscapeGameController.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Controllers\\EscapeGameController.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Controllers\\EscapeGameController.cs",
@@ -1326,51 +1370,49 @@
               "RelativeToolTip": "EscapeGameService\\Controllers\\EscapeGameController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:08:41.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:08:41.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "EscapeRepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\EscapeGame\\EscapeRepository.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Repository\\EscapeGame\\EscapeRepository.cs",
               "ToolTip": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Repository\\EscapeGame\\EscapeRepository.cs",
               "RelativeToolTip": "EscapeGameService\\Repository\\EscapeGame\\EscapeRepository.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAuwA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAYAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T18:08:34.408Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 21,
               "Title": "SessionReserved.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\SessionGame\\SessionReserved.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\SessionGame\\SessionReserved.cs",
               "ToolTip": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\SessionGame\\SessionReserved.cs",
               "RelativeToolTip": "EscapeGameService\\Models\\SessionGame\\SessionReserved.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:07:08.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:07:08.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 4,
               "Title": "DayOftheWeek.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\SessionGame\\DayOftheWeek.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\SessionGame\\DayOftheWeek.cs",
               "ToolTip": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\SessionGame\\DayOftheWeek.cs",
               "RelativeToolTip": "EscapeGameService\\Models\\SessionGame\\DayOftheWeek.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T18:07:00.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 41,
               "Title": "ErrorType.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\Enum\\ErrorType.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\Enum\\ErrorType.cs",
@@ -1378,12 +1420,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\Enum\\ErrorType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:04:46.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:04:46.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 98,
               "Title": "Price.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\Escapegame\\Price.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\Escapegame\\Price.cs",
@@ -1391,12 +1432,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\Escapegame\\Price.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:04:39.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:04:39.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 40,
               "Title": "DifficultyLevel.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\Escapegame\\DifficultyLevel.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\Escapegame\\DifficultyLevel.cs",
@@ -1404,12 +1444,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\Escapegame\\DifficultyLevel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:04:27.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:04:27.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 100,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\Event\\Event.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\Event\\Event.cs",
@@ -1417,12 +1456,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\Event\\Event.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:04:23.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:04:23.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 101,
               "Title": "Favoris.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\Favoris\\Favoris.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\Favoris\\Favoris.cs",
@@ -1430,12 +1468,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\Favoris\\Favoris.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:04:18.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:04:18.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 102,
               "Title": "TypeLike.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\Publication\\TypeLike.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\Publication\\TypeLike.cs",
@@ -1443,12 +1480,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\Publication\\TypeLike.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:03:38.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:03:38.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 103,
               "Title": "PublicationType.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\Publication\\PublicationType.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\Publication\\PublicationType.cs",
@@ -1456,12 +1492,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\Publication\\PublicationType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:03:34.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:03:34.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 87,
               "Title": "Publication.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\Publication\\Publication.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\Publication\\Publication.cs",
@@ -1469,12 +1504,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\Publication\\Publication.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:03:31.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:03:31.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 82,
               "Title": "HasLike.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\Publication\\HasLike.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\Publication\\HasLike.cs",
@@ -1482,12 +1516,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\Publication\\HasLike.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:03:26.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:03:26.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 104,
               "Title": "Rating.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\Rating\\Rating.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\Rating\\Rating.cs",
@@ -1495,12 +1528,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\Rating\\Rating.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:03:18.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:03:18.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 105,
               "Title": "HasBeenDone.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\Rating\\HasBeenDone.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\Rating\\HasBeenDone.cs",
@@ -1508,12 +1540,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\Rating\\HasBeenDone.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:03:07.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:03:07.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 99,
               "Title": "Escapegame.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\Escapegame\\Escapegame.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\Escapegame\\Escapegame.cs",
@@ -1521,12 +1552,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\Escapegame\\Escapegame.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA8wAIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:02:58.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:02:58.632Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 96,
               "Title": "SessionGame.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\SessionGame\\SessionGame.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\SessionGame\\SessionGame.cs",
@@ -1534,25 +1564,24 @@
               "RelativeToolTip": "EscapeGameService\\Models\\SessionGame\\SessionGame.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T17:56:37.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T17:56:37.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 5,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Data\\DataContext.cs",
               "ToolTip": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Data\\DataContext.cs",
               "RelativeToolTip": "EscapeGameService\\Data\\DataContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAIAxwBQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T17:56:25.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 67,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\appsettings.json",
               "RelativeDocumentMoniker": "EscapeGameService\\appsettings.json",
@@ -1560,25 +1589,24 @@
               "RelativeToolTip": "EscapeGameService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-29T17:54:35.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T17:54:35.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 3,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\ExtensionMethods\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\ExtensionMethods\\DependencyInjection.cs",
               "ToolTip": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\ExtensionMethods\\DependencyInjection.cs",
               "RelativeToolTip": "EscapeGameService\\ExtensionMethods\\DependencyInjection.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAEwBoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T17:43:12.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 50,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Services\\Interface\\Service.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Services\\Interface\\Service.cs",
@@ -1586,12 +1614,11 @@
               "RelativeToolTip": "EscapeGameService\\Services\\Interface\\Service.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAIwE4AAACJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T17:24:42.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T17:24:42.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 51,
               "Title": "IService.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Services\\Interface\\IService.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Services\\Interface\\IService.cs",
@@ -1599,12 +1626,11 @@
               "RelativeToolTip": "EscapeGameService\\Services\\Interface\\IService.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAQwBwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T17:24:30.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T17:24:30.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 66,
               "Title": "GenericControlleur.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Controllers\\GenericControlleur.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Controllers\\GenericControlleur.cs",
@@ -1612,12 +1638,11 @@
               "RelativeToolTip": "EscapeGameService\\Controllers\\GenericControlleur.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T17:23:29.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T17:23:29.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 110,
               "Title": "AnnonceService.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Services\\Annonce\\AnnonceService.cs",
               "RelativeDocumentMoniker": "Notificaton\\Services\\Annonce\\AnnonceService.cs",
@@ -1625,12 +1650,11 @@
               "RelativeToolTip": "Notificaton\\Services\\Annonce\\AnnonceService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T17:15:50.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T17:15:50.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 109,
               "Title": "IAnnonceService.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Services\\Annonce\\IAnnonceService.cs",
               "RelativeDocumentMoniker": "Notificaton\\Services\\Annonce\\IAnnonceService.cs",
@@ -1638,12 +1662,11 @@
               "RelativeToolTip": "Notificaton\\Services\\Annonce\\IAnnonceService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T17:15:39.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T17:15:39.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 114,
               "Title": "NotificationService.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Services\\Notification\\NotificationService.cs",
               "RelativeDocumentMoniker": "Notificaton\\Services\\Notification\\NotificationService.cs",
@@ -1651,12 +1674,11 @@
               "RelativeToolTip": "Notificaton\\Services\\Notification\\NotificationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T17:12:18.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T17:12:18.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 112,
               "Title": "UpdateAnnonceDto.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Dto\\Annonce\\UpdateAnnonceDto.cs",
               "RelativeDocumentMoniker": "Notificaton\\Dto\\Annonce\\UpdateAnnonceDto.cs",
@@ -1664,12 +1686,11 @@
               "RelativeToolTip": "Notificaton\\Dto\\Annonce\\UpdateAnnonceDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T17:05:11.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T17:05:11.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 111,
               "Title": "GetAnnonceDto.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Dto\\Annonce\\GetAnnonceDto.cs",
               "RelativeDocumentMoniker": "Notificaton\\Dto\\Annonce\\GetAnnonceDto.cs",
@@ -1677,12 +1698,11 @@
               "RelativeToolTip": "Notificaton\\Dto\\Annonce\\GetAnnonceDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T17:04:13.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T17:04:13.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 115,
               "Title": "AddAnnonceDto.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Dto\\Annonce\\AddAnnonceDto.cs",
               "RelativeDocumentMoniker": "Notificaton\\Dto\\Annonce\\AddAnnonceDto.cs",
@@ -1690,12 +1710,11 @@
               "RelativeToolTip": "Notificaton\\Dto\\Annonce\\AddAnnonceDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T17:03:54.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T17:03:54.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 118,
               "Title": "GetNotificationDto.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Dto\\Notification\\GetNotificationDto.cs",
               "RelativeDocumentMoniker": "Notificaton\\Dto\\Notification\\GetNotificationDto.cs",
@@ -1703,12 +1722,11 @@
               "RelativeToolTip": "Notificaton\\Dto\\Notification\\GetNotificationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T17:02:58.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T17:02:58.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 116,
               "Title": "UpdateNotificationDto.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Dto\\Notification\\UpdateNotificationDto.cs",
               "RelativeDocumentMoniker": "Notificaton\\Dto\\Notification\\UpdateNotificationDto.cs",
@@ -1716,12 +1734,11 @@
               "RelativeToolTip": "Notificaton\\Dto\\Notification\\UpdateNotificationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T17:02:32.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T17:02:32.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 117,
               "Title": "AddNotificationDto.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Dto\\Notification\\AddNotificationDto.cs",
               "RelativeDocumentMoniker": "Notificaton\\Dto\\Notification\\AddNotificationDto.cs",
@@ -1729,12 +1746,11 @@
               "RelativeToolTip": "Notificaton\\Dto\\Notification\\AddNotificationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T17:01:31.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T17:01:31.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 113,
               "Title": "INotificationService.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Services\\Notification\\INotificationService.cs",
               "RelativeDocumentMoniker": "Notificaton\\Services\\Notification\\INotificationService.cs",
@@ -1742,25 +1758,24 @@
               "RelativeToolTip": "Notificaton\\Services\\Notification\\INotificationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:54:23.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T16:54:23.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Program.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Program.cs",
               "ToolTip": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Program.cs",
               "RelativeToolTip": "EscapeGameService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T16:37:23.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 42,
               "Title": "ServiceResponse.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\DataType\\ServiceResponse.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\DataType\\ServiceResponse.cs",
@@ -1768,12 +1783,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\DataType\\ServiceResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:30:24.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T16:30:24.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 43,
               "Title": "PaginationResponse.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\DataType\\PaginationResponse.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\DataType\\PaginationResponse.cs",
@@ -1781,12 +1795,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\DataType\\PaginationResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:30:20.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T16:30:20.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 44,
               "Title": "Pagination.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\DataType\\Pagination.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\DataType\\Pagination.cs",
@@ -1794,12 +1807,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\DataType\\Pagination.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:30:12.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T16:30:12.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 90,
               "Title": "SubCategorie.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\Categorie\\SubCategorie.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\Categorie\\SubCategorie.cs",
@@ -1807,12 +1819,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\Categorie\\SubCategorie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:30:05.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T16:30:05.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 97,
               "Title": "Categorie.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\Categorie\\Categorie.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\Categorie\\Categorie.cs",
@@ -1820,12 +1831,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\Categorie\\Categorie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:30:00.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T16:30:00.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 45,
               "Title": "ActivityPlacesType.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\ActivityPlaces\\ActivityPlacesType.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\ActivityPlaces\\ActivityPlacesType.cs",
@@ -1833,12 +1843,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\ActivityPlaces\\ActivityPlacesType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:29:45.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T16:29:45.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 46,
               "Title": "ActivityPlaces.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\Models\\ActivityPlaces\\ActivityPlaces.cs",
               "RelativeDocumentMoniker": "EscapeGameService\\Models\\ActivityPlaces\\ActivityPlaces.cs",
@@ -1846,12 +1855,11 @@
               "RelativeToolTip": "EscapeGameService\\Models\\ActivityPlaces\\ActivityPlaces.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:29:38.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T16:29:38.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 80,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "Notificaton\\Repository\\Repository.cs",
@@ -1859,12 +1867,11 @@
               "RelativeToolTip": "Notificaton\\Repository\\Repository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:20:10.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T16:20:10.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 119,
               "Title": "IAnnonceRepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Repository\\Annonce\\IAnnonceRepository.cs",
               "RelativeDocumentMoniker": "Notificaton\\Repository\\Annonce\\IAnnonceRepository.cs",
@@ -1872,12 +1879,11 @@
               "RelativeToolTip": "Notificaton\\Repository\\Annonce\\IAnnonceRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:18:47.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T16:18:47.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 95,
               "Title": "AnnonceRepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Repository\\Annonce\\AnnonceRepository.cs",
               "RelativeDocumentMoniker": "Notificaton\\Repository\\Annonce\\AnnonceRepository.cs",
@@ -1885,12 +1891,11 @@
               "RelativeToolTip": "Notificaton\\Repository\\Annonce\\AnnonceRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:18:41.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T16:18:41.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 118,
+              "DocumentIndex": 124,
               "Title": "AutoMapper.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\AutoMapper.cs",
               "RelativeDocumentMoniker": "Notificaton\\AutoMapper.cs",
@@ -1898,12 +1903,11 @@
               "RelativeToolTip": "Notificaton\\AutoMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:13:14.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T16:13:14.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 120,
+              "DocumentIndex": 126,
               "Title": "NotificationRepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Repository\\Notification\\NotificationRepository.cs",
               "RelativeDocumentMoniker": "Notificaton\\Repository\\Notification\\NotificationRepository.cs",
@@ -1911,12 +1915,11 @@
               "RelativeToolTip": "Notificaton\\Repository\\Notification\\NotificationRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:10:00.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T16:10:00.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 121,
+              "DocumentIndex": 127,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Notificaton\\WeatherForecast.cs",
@@ -1924,12 +1927,11 @@
               "RelativeToolTip": "Notificaton\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:07:49.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T16:07:49.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 123,
+              "DocumentIndex": 129,
               "Title": "UpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Dto\\Base\\UpdateDto.cs",
               "RelativeDocumentMoniker": "Notificaton\\Dto\\Base\\UpdateDto.cs",
@@ -1937,12 +1939,11 @@
               "RelativeToolTip": "Notificaton\\Dto\\Base\\UpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:00:03.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T16:00:03.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 122,
+              "DocumentIndex": 128,
               "Title": "BaseDco.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Dto\\Base\\BaseDco.cs",
               "RelativeDocumentMoniker": "Notificaton\\Dto\\Base\\BaseDco.cs",
@@ -1950,12 +1951,11 @@
               "RelativeToolTip": "Notificaton\\Dto\\Base\\BaseDco.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:59:57.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T15:59:57.068Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 124,
+              "DocumentIndex": 130,
               "Title": "AddDto.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Dto\\Base\\AddDto.cs",
               "RelativeDocumentMoniker": "Notificaton\\Dto\\Base\\AddDto.cs",
@@ -1963,12 +1963,11 @@
               "RelativeToolTip": "Notificaton\\Dto\\Base\\AddDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:59:38.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T15:59:38.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 94,
               "Title": "IService.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Services\\Interface\\IService.cs",
               "RelativeDocumentMoniker": "Notificaton\\Services\\Interface\\IService.cs",
@@ -1976,12 +1975,11 @@
               "RelativeToolTip": "Notificaton\\Services\\Interface\\IService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAUwC0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:59:08.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T15:59:08.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 78,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Services\\Interface\\Service.cs",
               "RelativeDocumentMoniker": "Notificaton\\Services\\Interface\\Service.cs",
@@ -1989,12 +1987,11 @@
               "RelativeToolTip": "Notificaton\\Services\\Interface\\Service.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAlwDMAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:58:51.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T15:58:51.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 115,
+              "DocumentIndex": 121,
               "Title": "NotificationService.csproj",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\NotificationService.csproj",
               "RelativeDocumentMoniker": "Notificaton\\NotificationService.csproj",
@@ -2007,7 +2004,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 114,
+              "DocumentIndex": 120,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Notificaton\\Data\\DataContext.cs",
@@ -2015,12 +2012,11 @@
               "RelativeToolTip": "Notificaton\\Data\\DataContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:49:28.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T15:49:28.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 107,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\ExtensionMethods\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Notificaton\\ExtensionMethods\\DependencyInjection.cs",
@@ -2028,12 +2024,11 @@
               "RelativeToolTip": "Notificaton\\ExtensionMethods\\DependencyInjection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:45:05.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T15:45:05.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 34,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\UserService\\appsettings.json",
               "RelativeDocumentMoniker": "UserService\\appsettings.json",
@@ -2041,12 +2036,11 @@
               "RelativeToolTip": "UserService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-29T14:57:54.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T14:57:54.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 106,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\appsettings.json",
               "RelativeDocumentMoniker": "Notificaton\\appsettings.json",
@@ -2054,12 +2048,11 @@
               "RelativeToolTip": "Notificaton\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-29T14:57:37.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T14:57:37.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 125,
+              "DocumentIndex": 131,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -2067,12 +2060,11 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-11-29T14:56:52.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T14:56:52.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 108,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Program.cs",
               "RelativeDocumentMoniker": "Notificaton\\Program.cs",
@@ -2080,12 +2072,11 @@
               "RelativeToolTip": "Notificaton\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T14:31:37.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T14:31:37.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\UserService\\Program.cs",
               "RelativeDocumentMoniker": "UserService\\Program.cs",
@@ -2093,12 +2084,11 @@
               "RelativeToolTip": "UserService\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T14:31:37.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T14:31:37.85Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 117,
+              "DocumentIndex": 123,
               "Title": "GlobalUsing.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\GlobalUsing.cs",
               "RelativeDocumentMoniker": "Notificaton\\GlobalUsing.cs",
@@ -2106,12 +2096,11 @@
               "RelativeToolTip": "Notificaton\\GlobalUsing.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T12:07:29.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T12:07:29.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 126,
+              "DocumentIndex": 132,
               "Title": "ErrorType.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\UserService\\Models\\Enum\\ErrorType.cs",
               "RelativeDocumentMoniker": "UserService\\Models\\Enum\\ErrorType.cs",
@@ -2119,12 +2108,11 @@
               "RelativeToolTip": "UserService\\Models\\Enum\\ErrorType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T11:35:37.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T11:35:37.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 127,
+              "DocumentIndex": 133,
               "Title": "ServiceResponse.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\UserService\\Models\\DataType\\ServiceResponse.cs",
               "RelativeDocumentMoniker": "UserService\\Models\\DataType\\ServiceResponse.cs",
@@ -2132,12 +2120,11 @@
               "RelativeToolTip": "UserService\\Models\\DataType\\ServiceResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T11:34:45.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T11:34:45.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 129,
+              "DocumentIndex": 135,
               "Title": "PaginationResponse.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\UserService\\Models\\DataType\\PaginationResponse.cs",
               "RelativeDocumentMoniker": "UserService\\Models\\DataType\\PaginationResponse.cs",
@@ -2145,12 +2132,11 @@
               "RelativeToolTip": "UserService\\Models\\DataType\\PaginationResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T11:34:37.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T11:34:37.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 128,
+              "DocumentIndex": 134,
               "Title": "Pagination.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\UserService\\Models\\DataType\\Pagination.cs",
               "RelativeDocumentMoniker": "UserService\\Models\\DataType\\Pagination.cs",
@@ -2158,12 +2144,11 @@
               "RelativeToolTip": "UserService\\Models\\DataType\\Pagination.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T11:34:27.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T11:34:27.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 29,
               "Title": "UserService.csproj",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\UserService\\UserService.csproj",
               "RelativeDocumentMoniker": "UserService\\UserService.csproj",
@@ -2176,7 +2161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 93,
               "Title": "ErrorManager.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Shared\\ErrorManager.cs",
               "RelativeDocumentMoniker": "Notificaton\\Shared\\ErrorManager.cs",
@@ -2184,12 +2169,11 @@
               "RelativeToolTip": "Notificaton\\Shared\\ErrorManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAALgAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T15:23:11.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T15:23:11.442Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 119,
+              "DocumentIndex": 125,
               "Title": "INotificationrepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Repository\\Notification\\INotificationrepository.cs",
               "RelativeDocumentMoniker": "Notificaton\\Repository\\Notification\\INotificationrepository.cs",
@@ -2197,12 +2181,11 @@
               "RelativeToolTip": "Notificaton\\Repository\\Notification\\INotificationrepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T11:34:54.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T11:34:54.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 79,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Repository\\IRepository.cs",
               "RelativeDocumentMoniker": "Notificaton\\Repository\\IRepository.cs",
@@ -2210,12 +2193,11 @@
               "RelativeToolTip": "Notificaton\\Repository\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:54:33.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T09:54:33.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 116,
+              "DocumentIndex": 122,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\Models\\Notification.cs",
               "RelativeDocumentMoniker": "Notificaton\\Models\\Notification.cs",
@@ -2223,12 +2205,7 @@
               "RelativeToolTip": "Notificaton\\Models\\Notification.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:28:18.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-10-22T09:28:18.755Z"
             }
           ]
         },

@@ -1,66 +1,95 @@
-﻿using EscapeGameService.Repository.EscapeGame;
+﻿using EscapeGameService.Models;
+using EscapeGameService.Repository.EscapeGame;
+using Microsoft.Extensions.Logging;
 
 namespace EscapeGameService.Repository
 {
     public class EscapeRepository : Repository<Escapegame>, IEscapeRepository
     {
+        private readonly DataContext _dataContext;
         public EscapeRepository(DataContext dataContext) : base(dataContext)
         {
+            _dataContext = dataContext;
         }
 
-        public Task<ActivityPlaces> AddActivityPlaceToEscapeGame(ActivityPlaces AddActivity)
+        public async Task<Event> AddEventToEscapes(Event addEvent)
         {
-            throw new NotImplementedException();
+            try
+            {
+                Event EventToAdd = _dataContext.Add(addEvent).Entity;
+                _=await _dataContext.SaveChangesAsync();
+                return EventToAdd;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
-        public Task<ActivityPlacesType> CreateActivityPlaceType(int escapesGameId)
+        public async Task<Event> DeleteEventById(int eventId)
         {
-            throw new NotImplementedException();
+            try
+            {
+                Event removeEvent= await _dataContext.Events.FirstOrDefaultAsync(e => e.EventId == eventId) ?? throw new NullReferenceException("");
+                _= _dataContext.Events.Remove(removeEvent);
+                _= await _dataContext.SaveChangesAsync();
+
+                return removeEvent; 
+
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
-        public Task<ActivityPlaces> GetActivityById(int activityId)
+        public async Task<IEnumerable<Event>> GetAllEventByEscapesGameId(int escapeGameId)
         {
-            throw new NotImplementedException();
+            try
+            {
+                return await _dataContext.Events.OrderBy(x=>x.StartDate)
+                                                .Where(X=>X.EscapegameId==escapeGameId)
+                                                .ToListAsync();
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
-        public Task<ActivityPlacesType> GetActivityPlaceTypeById(int ActivityplaceId)
+        public async Task<Event> GetEventById(int eventId)
         {
-            throw new NotImplementedException();
+            try
+            {
+                return await _dataContext.Events.FirstOrDefaultAsync(e => e.EventId == eventId) ?? throw new NullReferenceException();
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
-        public Task<IEnumerable<ActivityPlaces>> GetAllActivityPlacByActivityId(int activityTypeId)
+        public IQueryable<Event> QueryEvent() => _dataContext.Events.AsNoTracking();
+
+        public async Task<Event> UpdateEvent(Event updateEvent)
         {
-            throw new NotImplementedException();
+            try
+            {
+                Event EventToUpdate= _dataContext.Events.Update(updateEvent).Entity;
+                await _dataContext.SaveChangesAsync();
+                return EventToUpdate;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
-        public Task<IEnumerable<ActivityPlaces>> GetAllActivityPlace(int escapesGameId)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<List<ActivityPlacesType>> GetAllActivityPlaceType(int escapesGameId)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<IEnumerable<Event>> GetAllEventByEscapesGameId(int escapeGameId)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<IEnumerable<Event>> GetEventById(int eventId)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<ActivityPlaces> RemoveActivityFromEscapeGame(int escapesGameId, int activityId)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<ActivityPlacesType> UpdateActivityPlaceType(int ActivityplaceId)
-        {
-            throw new NotImplementedException();
-        }
+      
     }
 }

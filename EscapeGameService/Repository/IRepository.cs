@@ -59,5 +59,10 @@ namespace EscapeGameService.Repository
         /// <param name="predicate"></param>
         /// <returns></returns>
         Task<int> CountAsync(Expression<Func<T, bool>> predicate);
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
+        IQueryable<T> Query();
     }
 }
