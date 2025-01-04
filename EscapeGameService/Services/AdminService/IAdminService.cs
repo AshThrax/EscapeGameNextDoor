@@ -1,6 +1,6 @@
 ﻿namespace EscapeGameService.Services
 {
-    public class IAdminService
+    public interface IAdminService
     {
     }
 }

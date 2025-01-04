@@ -4,16 +4,24 @@
     {
         public async static Task<WebApplication> AddSeedDatabaseInjection(this WebApplication app) 
         {
+            try
+            {
 
-                using (IServiceScope scope = app.Services.CreateScope())
-                {
-                    DataContext context = scope.ServiceProvider.GetRequiredService<DataContext>();
+                    using (IServiceScope scope = app.Services.CreateScope())
+                    {
+                        DataContext context = scope.ServiceProvider.GetRequiredService<DataContext>();
 
-                    await context.Database.MigrateAsync();
-                    await SeedData.SeedAsync(context);
-                }
+                        await context.Database.MigrateAsync();
+                        await SeedData.SeedAsync(context);
+                    }
 
-                return app;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+            return app;
         }
     }
 

@@ -1,6 +1,4 @@
-﻿
-
-using EscapeGameService.Repository.Publication;
+﻿using EscapeGameService.Repository.Publications;
 
 namespace EscapeGameService.Services
 {

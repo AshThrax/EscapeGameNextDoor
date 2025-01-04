@@ -1,6 +1,8 @@
 ﻿
 
 
+using EscapeGameService.Models;
+
 namespace EscapeGameService.Repository.Session
 {
     public class SessionGameRepository : Repository<SessionGame>, ISessionGameRepository
@@ -43,13 +45,16 @@ namespace EscapeGameService.Repository.Session
         } 
         #region Session Games
         
-        public async Task<DayOftheWeek> DeleteDayofTheWeek(DayOftheWeek dayOftheWeek)
+     
+        public async Task<DayOftheWeek> DeleteDayofTheWeek(int id)
         {
             try
             {
-                DayOftheWeek DayOftheWeekdToAdd = _dataContext.DayOftheWeeks.FirstOrDefaultAsync().Entity;
+                DayOftheWeek DayOftheWeekdToRemove = await _dataContext.DayOftheWeeks.FirstOrDefaultAsync()
+                                                                ?? throw new NullReferenceException(" ");
+                _ = _dataContext.Remove(DayOftheWeekdToRemove);
                 _ = await _dataContext.SaveChangesAsync();
-                return dayOftheWeek;
+                return DayOftheWeekdToRemove;
             }
             catch (Exception)
             {

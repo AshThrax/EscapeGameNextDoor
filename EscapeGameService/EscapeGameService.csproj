@@ -9,6 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+	  <PackageReference Include="Auth0.AuthenticationApi" Version="7.30.0" />
+	  <PackageReference Include="Auth0.Core" Version="7.30.0" />
+	  <PackageReference Include="Auth0.ManagementApi" Version="7.30.0" />
 	  <PackageReference Include="AutoMapper" Version="13.0.1" />
 	  <PackageReference Include="CloudinaryDotNet" Version="1.26.2" />
 
@@ -24,6 +27,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Dto\HasLike\" />
+    <Folder Include="Migrations\" />
     <Folder Include="Models\Modération\" />
     <Folder Include="Repository\Events\" />
     <Folder Include="Repository\Favoris\" />

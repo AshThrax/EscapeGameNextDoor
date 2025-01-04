@@ -9,40 +9,47 @@
             if (!dataContext.DayOftheWeeks.Any())
             {
                 await dataContext.DayOftheWeeks.AddRangeAsync(GetDaysList());
+                _ = await dataContext.SaveChangesAsync(); 
             }
 
 
             if (!dataContext.Prices.Any())
             {
-
+                await dataContext.Prices.AddRangeAsync(GetPriceList());
+                _ = await dataContext.SaveChangesAsync();
             }
 
             if (!dataContext.PublicationTypes.Any())
             {
-
+                await dataContext.PublicationTypes.AddRangeAsync(GetPublicationTypes());
+                _ = await dataContext.SaveChangesAsync();
             }
             if (!dataContext.TypeLike.Any())
             {
-
+                await dataContext.TypeLike.AddRangeAsync(GetTypesLike());
+                _ = await dataContext.SaveChangesAsync();
             }
             if (!dataContext.DifficultyLevels.Any())
             {
-
+                await dataContext.DifficultyLevels.AddRangeAsync(GetDifficultyLevels());
+                _ = await dataContext.SaveChangesAsync();
             }
 
             if (!dataContext.ActivityPlacesTypes.Any())
             {
-
+                await dataContext.ActivityPlacesTypes.AddRangeAsync(GetActivityPlacesTypes());
+                _ = await dataContext.SaveChangesAsync();
             }
 
             if (!dataContext.Categories.Any())
             {
-
+                await dataContext.Categories.AddRangeAsync(GetCategories());
+                _ = await dataContext.SaveChangesAsync();
             }
 
             if (!dataContext.SubCategoris.Any())
             {
-
+            
             }
 
             if (!dataContext.ActivityPlaces.Any())
@@ -54,7 +61,7 @@
             {
                 
             }
-            _ = await dataContext.SaveChangesAsync();
+           
         }
         /// <summary>
         /// add a list of days to the data base
@@ -65,30 +72,30 @@
             return new List<DayOftheWeek> 
             {
                 new DayOftheWeek{
-                    DowId = 1,
+                  
                     DowName="Monday"
                 },
                 new DayOftheWeek{
-                    DowId = 2,
+                
                     DowName="Thursday"
                 },
                 new DayOftheWeek {
-                    DowId = 3,
+                   
                     DowName="Woensday"},
                 new DayOftheWeek{
                     
-                    DowId = 4,
+                    
                     DowName="Tuesday"
                 },
                 new DayOftheWeek{
-                     DowId = 5,
+                    
                     DowName="Friday"
                 },
                 new DayOftheWeek {
-                    DowId = 6,
+                 
                     DowName="Saturday"},
                 new DayOftheWeek {
-                    DowId = 7,
+                  
       
                     DowName="Sunday"
                 },
@@ -98,7 +105,7 @@
         /// add price indicator
         /// </summary>
         /// <returns></returns>
-        public static List<Price> GePriceList() {
+        public static List<Price> GetPriceList() {
             return new List<Price>
             {
                 new Price 
@@ -128,20 +135,20 @@
             return new List<DifficultyLevel> { 
                    
                 new DifficultyLevel{
-                    DileId = 1,
+                   
                     DileLevel="Beginner",
                 },
                 new DifficultyLevel{
-                    DileId=2,
+                  
                     DileLevel="Medium"
                 },
                 new DifficultyLevel{
-                    DileId=3,
+                  
                     DileLevel="Advance"
                 },
                 new DifficultyLevel
                 {
-                    DileId=4,
+                
                     DileLevel="Expert"
                 }
             };
@@ -155,12 +162,12 @@
             {
                 new PublicationType
                 {
-                    PublicationTypeId = 1,
+                  
                     PublicationTypeName="Post"
                 },
                  new PublicationType
                 {
-                    PublicationTypeId = 2,
+                  
                     PublicationTypeName="Video"
                 },
             };
@@ -174,17 +181,17 @@
             return new List<TypeLike> {
                 new TypeLike
                 {
-                    TypeLikeId = 1,
+                   
                     TypeLikeName="Like"
                 },
                 new TypeLike
                 {
-                    TypeLikeId = 2,
+                 
                     TypeLikeName="Love"
                 },
                 new TypeLike
                 {
-                    TypeLikeId = 3,
+                  
                     TypeLikeName="hahah"
                 }
             };

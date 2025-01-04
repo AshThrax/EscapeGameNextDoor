@@ -5,10 +5,15 @@ namespace EscapeGameService.Controllers
 {
     [Route("api/v1/[controller]")]
     [ApiController]
-    public class PublicationController :ControllerBase
+    public class PublicationController : ControllerBase
     {
-        
-        public PublicationController() { }
+        private readonly IPublicationService _publicationService;
+        public PublicationController(IPublicationService publicationService)
+        {
+            _publicationService = publicationService;
+        }
+
+
         #region publication
         //récupérer les 
         #endregion

@@ -1,4 +1,4 @@
-﻿using EscapeGameService.Dto;
+﻿using EscapeGameService.Dto.ActivityType;
 using EscapeGameService.Models.DataType;
 
 namespace EscapeGameService.Services

@@ -1,5 +1,5 @@
 ﻿
-namespace EscapeGameService.Repository.Publication
+namespace EscapeGameService.Repository.Publications
 {
     public class HasLikeRepository : Repository<HasLike>, IHasLikeRepository
     {

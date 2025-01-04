@@ -2,6 +2,56 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "Auth0.AuthenticationApi/7.30.0": {
+        "type": "package",
+        "dependencies": {
+          "Auth0.Core": "7.30.0",
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.5.0",
+          "System.IdentityModel.Tokens.Jwt": "6.34.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Auth0.AuthenticationApi.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Auth0.AuthenticationApi.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Auth0.Core/7.30.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/Auth0.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Auth0.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Auth0.ManagementApi/7.30.0": {
+        "type": "package",
+        "dependencies": {
+          "Auth0.Core": "7.30.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Auth0.ManagementApi.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Auth0.ManagementApi.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "AutoMapper/13.0.1": {
         "type": "package",
         "dependencies": {
@@ -2478,6 +2528,54 @@
     }
   },
   "libraries": {
+    "Auth0.AuthenticationApi/7.30.0": {
+      "sha512": "JTnVNe2aVZIY2nk3ehEUScfxrUY6AG7ew+oywt+fJQ4TLsNdifXT9ejCGioJoz/O/DoSm9FfHdmY+WL5lfhopQ==",
+      "type": "package",
+      "path": "auth0.authenticationapi/7.30.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Auth0Icon.png",
+        "auth0.authenticationapi.7.30.0.nupkg.sha512",
+        "auth0.authenticationapi.nuspec",
+        "lib/net462/Auth0.AuthenticationApi.dll",
+        "lib/net462/Auth0.AuthenticationApi.xml",
+        "lib/netstandard2.0/Auth0.AuthenticationApi.dll",
+        "lib/netstandard2.0/Auth0.AuthenticationApi.xml"
+      ]
+    },
+    "Auth0.Core/7.30.0": {
+      "sha512": "pnr/nygOMijrCHynl2oEUUDk0Oi2Cl8PW7BZ5z8q6+RpCGcBEX1kmVAxaN0OZqxMnSRxrc5LDEp153OOFJbZ1w==",
+      "type": "package",
+      "path": "auth0.core/7.30.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Auth0Icon.png",
+        "auth0.core.7.30.0.nupkg.sha512",
+        "auth0.core.nuspec",
+        "lib/net462/Auth0.Core.dll",
+        "lib/net462/Auth0.Core.xml",
+        "lib/netstandard2.0/Auth0.Core.dll",
+        "lib/netstandard2.0/Auth0.Core.xml"
+      ]
+    },
+    "Auth0.ManagementApi/7.30.0": {
+      "sha512": "yLMkkO0hlDYo6LEfXGtWWBJsZejd4gLjDBUUfLLoXxUPmcAZLBYdUinka3vZVDlaF+kLZfAsMeF8xHq1wA7VQw==",
+      "type": "package",
+      "path": "auth0.managementapi/7.30.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Auth0Icon.png",
+        "auth0.managementapi.7.30.0.nupkg.sha512",
+        "auth0.managementapi.nuspec",
+        "lib/net462/Auth0.ManagementApi.dll",
+        "lib/net462/Auth0.ManagementApi.xml",
+        "lib/netstandard2.0/Auth0.ManagementApi.dll",
+        "lib/netstandard2.0/Auth0.ManagementApi.xml"
+      ]
+    },
     "AutoMapper/13.0.1": {
       "sha512": "/Fx1SbJ16qS7dU4i604Sle+U9VLX+WSNVJggk6MupKVkYvvBm4XqYaeFuf67diHefHKHs50uQIS2YEDFhPCakQ==",
       "type": "package",
@@ -7948,6 +8046,9 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Auth0.AuthenticationApi >= 7.30.0",
+      "Auth0.Core >= 7.30.0",
+      "Auth0.ManagementApi >= 7.30.0",
       "AutoMapper >= 13.0.1",
       "CloudinaryDotNet >= 1.26.2",
       "Microsoft.EntityFrameworkCore >= 9.0.0",
@@ -8008,6 +8109,18 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Auth0.AuthenticationApi": {
+            "target": "Package",
+            "version": "[7.30.0, )"
+          },
+          "Auth0.Core": {
+            "target": "Package",
+            "version": "[7.30.0, )"
+          },
+          "Auth0.ManagementApi": {
+            "target": "Package",
+            "version": "[7.30.0, )"
+          },
           "AutoMapper": {
             "target": "Package",
             "version": "[13.0.1, )"

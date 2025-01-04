@@ -19,7 +19,10 @@ namespace EscapeGameService.ExtensionMethods
         public static IServiceCollection AddDatabase(this IServiceCollection services,IConfiguration config)
         {
             services.AddDbContext<DataContext>(option =>
-                         option.UseSqlServer(config.GetConnectionString("Default")));
+                         option.UseSqlServer(config.GetConnectionString("Default"), builder => 
+                         {
+                             builder.EnableRetryOnFailure(5, TimeSpan.FromSeconds(10), null);
+                         }));
             //injection des repository
             return services;
         }

@@ -1,4 +1,4 @@
-﻿namespace EscapeGameService.Repository.Publication
+﻿namespace EscapeGameService.Repository.Publications
 {
     public interface IHasLikeRepository: IRepository<HasLike>
     {

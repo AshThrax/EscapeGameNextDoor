@@ -1,5 +1,6 @@
 ﻿
 using AutoMapper;
+using EscapeGameService.Dto.ActivityType;
 using EscapeGameService.Models;
 using EscapeGameService.Models.DataType;
 using System;

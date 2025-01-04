@@ -176,3 +176,10 @@ C:\Users\quentin\source\repos\EscapeGameProject\UserService\bin\Debug\net8.0\run
 C:\Users\quentin\source\repos\EscapeGameProject\UserService\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\quentin\source\repos\EscapeGameProject\UserService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\quentin\source\repos\EscapeGameProject\UserService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\quentin\source\repos\EscapeGameProject\UserService\bin\Debug\net8.0\Auth0.AuthenticationApi.dll
+C:\Users\quentin\source\repos\EscapeGameProject\UserService\bin\Debug\net8.0\Auth0.Core.dll
+C:\Users\quentin\source\repos\EscapeGameProject\UserService\bin\Debug\net8.0\Auth0.ManagementApi.dll
+C:\Users\quentin\source\repos\EscapeGameProject\UserService\bin\Debug\net8.0\Auth0Net.DependencyInjection.dll
+C:\Users\quentin\source\repos\EscapeGameProject\UserService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\quentin\source\repos\EscapeGameProject\UserService\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\quentin\source\repos\EscapeGameProject\UserService\bin\Debug\net8.0\ZiggyCreatures.FusionCache.dll

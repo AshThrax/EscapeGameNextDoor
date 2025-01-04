@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EscapeGameService.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20241129154408_initialMigration")]
-    partial class initialMigration
+    [Migration("20241212141811_initMigration")]
+    partial class initMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -458,7 +458,10 @@ namespace EscapeGameService.Migrations
                     b.Property<DateTime>("CreationDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<bool>("Iscancel")
+                    b.Property<bool>("IsCancel")
+                        .HasColumnType("bit");
+
+                    b.Property<bool>("IsConfirmed")
                         .HasColumnType("bit");
 
                     b.Property<int>("SessionGameId")

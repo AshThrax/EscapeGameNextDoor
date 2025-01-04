@@ -1,4 +1,4 @@
-﻿namespace EscapeGameService.Dto
+﻿namespace EscapeGameService.Dto.ActivityType
 {
     public class UpdateActivityPlaceTypeDto
     {
