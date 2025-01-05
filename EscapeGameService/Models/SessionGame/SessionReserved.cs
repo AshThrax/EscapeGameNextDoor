@@ -10,6 +10,6 @@
         public bool IsCancel { get; set; }
         public bool IsConfirmed { get; set; }
         public DateTime CreationDate { get; set; }
-        public DateTime Updatedate { get; set; }
+        public DateTime UpdateDate { get; set; }
     }
 }

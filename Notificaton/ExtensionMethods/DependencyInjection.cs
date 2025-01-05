@@ -16,5 +16,15 @@ namespace NotificationService.ExtensionMethods
             //injection des repository
             return services;    
         }
+
+        public static IServiceCollection AddRepository(this IServiceCollection services, IConfiguration configuration) 
+        { 
+            return services;
+        }
+
+        public static IServiceCollection AddServices(this IServiceCollection services) 
+        {
+            return services;
+        }
     }
 }

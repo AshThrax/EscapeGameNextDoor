@@ -3,7 +3,7 @@ using EscapeGameService.Dto.Categorie;
 using EscapeGameService.Dto.SubCategory;
 using EscapeGameService.Models.DataType;
 
-namespace EscapeGameService.Services.Categorie
+namespace EscapeGameService.Services
 {
     public class CategoryService : ICategoryService
     {
@@ -19,55 +19,191 @@ namespace EscapeGameService.Services.Categorie
             _categoryrepository = categorieRepository;
             _subCategorieRepository = subCategorieRepository;
         }
-
-        public Task<ServiceResponse<GetCategoryDto>> AddCategories(AddCategoryDto addCategory)
+        /// <summary>
+        /// add a new categorie entity
+        /// </summary>
+        /// <param name="addCategory"></param>
+        /// <returns></returns>
+        public async Task<ServiceResponse<GetCategoryDto>> AddCategories(AddCategoryDto addCategory)
         {
-            throw new NotImplementedException();
+            try
+            {
+                Categorie addEntityCategory = _mapper.Map<Categorie>(addCategory);
+                addEntityCategory= await _categoryrepository.CreateAsync(addEntityCategory);
+
+                return await SuccessManager.SuccessResponse(_mapper.Map<GetCategoryDto>(addEntityCategory));
+
+            }
+            catch (Exception ex)
+            {
+                return await ErrorManager.ManageError<GetCategoryDto>(ex,null);
+            }
         }
 
-        public Task<ServiceResponse<GetCategoryDto>> AddSubCategories(AddSubCategoryDto addCategory)
+        public async Task<ServiceResponse<GetSubCategoryDto>> AddSubCategories(AddSubCategoryDto addCategory)
         {
-            throw new NotImplementedException();
+
+            try
+            {
+                SubCategorie addEntityCategory = _mapper.Map<SubCategorie>(addCategory);
+                addEntityCategory = await _subCategorieRepository.CreateAsync(addEntityCategory);
+
+                return await SuccessManager.SuccessResponse(_mapper.Map<GetSubCategoryDto>(addEntityCategory));
+            }
+            catch (Exception ex)
+            {
+                return await ErrorManager.ManageError<GetSubCategoryDto>(ex, null);
+            }
         }
 
-        public Task<ServiceResponse<GetCategoryDto>> DeleteCategory(int id)
+        public async Task<ServiceResponse<GetCategoryDto>> DeleteCategory(int id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                if (id > 0)
+                {
+                    throw new ArgumentException("the ide pâssed as aparamreter isn't valid ");
+                }
+                
+                Categorie categorieToRemove = await _categoryrepository.GetById(id);
+                
+                if (categorieToRemove != null)
+                {
+                    throw new NullReferenceException("no reference of the object");
+                }
+                
+                categorieToRemove = await _categoryrepository.DeleteAsync(id);  
+                return await SuccessManager.SuccessResponse(_mapper.Map<GetCategoryDto>(categorieToRemove));
+            }
+            catch (Exception ex)
+            {
+                return await ErrorManager.ManageError<GetCategoryDto>(ex, null);
+            }
         }
 
-        public Task<ServiceResponse<GetCategoryDto>> DeleteSubCategory(int subCatid)
+        public async Task<ServiceResponse<GetSubCategoryDto>> DeleteSubCategory(int subCatid)
         {
-            throw new NotImplementedException();
+            try
+            {
+                if (subCatid > 0)
+                {
+                    throw new ArgumentException("the ide pâssed as aparamreter isn't valid ");
+                }
+                
+                SubCategorie subCategorieToRemove = await _subCategorieRepository.GetById(subCatid);
+                
+                if (subCategorieToRemove != null)
+                {
+                    throw new NullReferenceException("no reference of the object");
+                }
+
+                subCategorieToRemove = await _subCategorieRepository.DeleteAsync(subCatid);
+                return await SuccessManager.SuccessResponse(_mapper.Map<GetSubCategoryDto>(subCategorieToRemove));
+            }
+            catch (Exception ex)
+            {
+                return await ErrorManager.ManageError<GetSubCategoryDto>(ex, null);
+            }
         }
 
-        public Task<ServiceResponse<List<GetCategoryDto>>> GetAllCategory()
+        public async Task<ServiceResponse<List<GetCategoryDto>>> GetAllCategory()
         {
-            throw new NotImplementedException();
+            try
+            {
+               
+                return await SuccessManager.SuccessResponse(_mapper.Map<List<GetCategoryDto>>(await _categoryrepository.GetAllAsync()));
+            }
+            catch (Exception ex)
+            {
+
+                return await ErrorManager.ManageError<List<GetCategoryDto>>(ex, null);
+            }
         }
 
-        public Task<ServiceResponse<List<GetCategoryDto>>> GetAllSubCategoryByCategoryParent(int CatId)
+        public async Task<ServiceResponse<List<GetSubCategoryDto>>> GetAllSubCategoryByCategoryParent(int CatId)
         {
-            throw new NotImplementedException();
+            try
+            {
+                return await SuccessManager.SuccessResponse(_mapper.Map<List<GetSubCategoryDto>>(await _subCategorieRepository.Query().Where(xc =>xc.CatId==CatId).ToListAsync()));
+            }
+            catch (Exception ex)
+            {
+                return await ErrorManager.ManageError<List<GetSubCategoryDto>>(ex, null);
+            }
         }
 
-        public Task<ServiceResponse<GetCategoryDto>> GetCategoryById(int id)
+        public async Task<ServiceResponse<GetCategoryDto>> GetCategoryById(int id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                return await SuccessManager.SuccessResponse(_mapper.Map<GetCategoryDto>(await _categoryrepository.GetById(id)));
+            }
+            catch (Exception ex)
+            {
+
+                return await ErrorManager.ManageError<GetCategoryDto>(ex, null);
+            }
         }
 
-        public Task<ServiceResponse<GetCategoryDto>> GetSubCategoryById(int id)
+        public async Task<ServiceResponse<GetSubCategoryDto>> GetSubCategoryById(int id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                return await SuccessManager.SuccessResponse(_mapper.Map<GetSubCategoryDto>(await _subCategorieRepository.GetById(id)));
+            }
+            catch (Exception ex)
+            {
+
+                return await ErrorManager.ManageError<GetSubCategoryDto>(ex, null);
+            }
         }
 
-        public Task<ServiceResponse<GetCategoryDto>> UpdateCategory(UpdateCategory updateCategory)
+        public async Task<ServiceResponse<GetCategoryDto>> UpdateCategory(UpdateCategory updateCategory)
         {
-            throw new NotImplementedException();
+            try
+            {
+                if (updateCategory == null)
+                {
+                    throw new ArgumentException("the object cannot be process");
+                }
+
+                Categorie categorietoUpdate = await _categoryrepository.GetById(updateCategory.CatId);
+
+                //make the modification required 
+                categorietoUpdate.CatName=updateCategory.CatName;
+                categorietoUpdate= await _categoryrepository.UpdateAsync(categorietoUpdate);
+
+                return await SuccessManager.SuccessResponse(_mapper.Map<GetCategoryDto>(categorietoUpdate));
+            }
+            catch (Exception ex)
+            {
+
+                return await ErrorManager.ManageError<GetCategoryDto>(ex, null);
+            }
         }
 
-        public Task<ServiceResponse<GetCategoryDto>> UpdateSubCategory(UpdateSubCategoryDto updateCategory)
+        public async Task<ServiceResponse<GetSubCategoryDto>> UpdateSubCategory(UpdateSubCategoryDto updateCategory)
         {
-            throw new NotImplementedException();
+            try
+            {
+                if (updateCategory == null)
+                {
+                    throw new ArgumentException("the object Cannot be process");
+                }
+                
+                SubCategorie subCategorieToUpdate = await _subCategorieRepository.GetById(updateCategory.SubCatId);
+                //make the modification required
+                subCategorieToUpdate.SubCatName =updateCategory.SubCatName;
+                subCategorieToUpdate.CatId = updateCategory.CatId;
+                subCategorieToUpdate = await _subCategorieRepository.UpdateAsync(subCategorieToUpdate);
+                return await SuccessManager.SuccessResponse(_mapper.Map<GetSubCategoryDto>(subCategorieToUpdate));
+            }
+            catch (Exception ex)
+            {
+
+                return await ErrorManager.ManageError<GetSubCategoryDto>(ex, null);
+  
+            }
         }
     }
 }

@@ -27,7 +27,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Dto\HasLike\" />
     <Folder Include="Migrations\" />
     <Folder Include="Models\Modération\" />
     <Folder Include="Repository\Events\" />

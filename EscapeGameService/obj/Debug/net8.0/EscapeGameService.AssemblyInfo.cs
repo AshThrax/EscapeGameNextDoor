@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EscapeGameService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82889f71ccc5776552070c7b73a3cf48f934c8cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad3b84fb171404aa6e223b81bb0c1b3b4fc873b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("EscapeGameService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EscapeGameService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,11 +1,13 @@
 using Microsoft.AspNetCore.Identity;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
 using UserService.Data;
 using UserService.ExtensionMethods;
+using UserServices.ExtensionMethods;
 
 var builder = WebApplication.CreateBuilder(args);
-
+IConfiguration configuration= builder.Configuration;
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -39,9 +41,13 @@ builder.Services.AddSwaggerGen(opt =>
         }
     });
 });
-builder.Services.AddService(builder.Configuration);
-builder.Services.AddAuthorization();
+//----- ajout de la database ainis que des service 
+builder.Services.AddDatabase(configuration);
+builder.Services.AddRepository(configuration);
+builder.Services.AddServices(configuration);
 
+builder.Services.AddAuthorization();
+builder.Services.AddAuth0Injection(configuration);
 builder.Services.AddIdentityApiEndpoints<ApplicationUser>()
                 .AddEntityFrameworkStores<DataContext>()
                 .AddDefaultTokenProviders();
@@ -57,6 +63,7 @@ if (app.Environment.IsDevelopment())
 app.AddMinimalEndpoint();
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

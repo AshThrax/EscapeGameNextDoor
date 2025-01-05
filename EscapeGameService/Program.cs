@@ -4,6 +4,7 @@ using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
+IConfiguration configuration = builder.Configuration;
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -40,8 +41,9 @@ builder.Services.AddSwaggerGen(opt =>
 });
 builder.Services.AddDependency();
 builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
-builder.Services.AddDatabase(builder.Configuration);
-builder.Services.AddCloudinaryEscape(builder.Configuration);
+builder.Services.AddDatabase(configuration);
+builder.Services.AddCloudinaryEscape(configuration);
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -55,6 +57,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

@@ -8,6 +8,8 @@
         public int LikeNumber { get; set; }
         public bool IsDeleted { get; set; }
         public string userId { get; set; } = string.Empty;
+        public DateTime CreationDate { get; set; }
+        public DateTime UpdateDate { get; set; }
         //navigation 
         PublicationType? PublicationType { get; set; }
         public HasLike? HasLike { get; set; }
