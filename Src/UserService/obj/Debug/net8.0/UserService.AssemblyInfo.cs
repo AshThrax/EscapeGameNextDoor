@@ -11,13 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("545453ac-52d0-4280-b471-caf8c70d7688")]
-[assembly: System.Reflection.AssemblyCompanyAttribute("EscapeGameService")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("331c3433-8f44-4b48-b233-2878f5e87236")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("UserService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad3b84fb171404aa6e223b81bb0c1b3b4fc873b2")]
-[assembly: System.Reflection.AssemblyProductAttribute("EscapeGameService")]
-[assembly: System.Reflection.AssemblyTitleAttribute("EscapeGameService")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85bf1aab0b03bfe0a4bfdb55ab71bf8d233e49aa")]
+[assembly: System.Reflection.AssemblyProductAttribute("UserService")]
+[assembly: System.Reflection.AssemblyTitleAttribute("UserService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

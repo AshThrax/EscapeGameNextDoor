@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\EscapeGameService.csproj": {}
+    "C:\\Users\\quentin\\EscapeGame\\EscapeGameNextDoor\\Src\\UserService\\UserService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\EscapeGameService.csproj": {
+    "C:\\Users\\quentin\\EscapeGame\\EscapeGameNextDoor\\Src\\UserService\\UserService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\EscapeGameService.csproj",
-        "projectName": "EscapeGameService",
-        "projectPath": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\EscapeGameService.csproj",
+        "projectUniqueName": "C:\\Users\\quentin\\EscapeGame\\EscapeGameNextDoor\\Src\\UserService\\UserService.csproj",
+        "projectName": "UserService",
+        "projectPath": "C:\\Users\\quentin\\EscapeGame\\EscapeGameNextDoor\\Src\\UserService\\UserService.csproj",
         "packagesPath": "C:\\Users\\quentin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\EscapeGameService\\obj\\",
+        "outputPath": "C:\\Users\\quentin\\EscapeGame\\EscapeGameNextDoor\\Src\\UserService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,13 +62,17 @@
               "target": "Package",
               "version": "[7.30.0, )"
             },
-            "AutoMapper": {
+            "Auth0Net.DependencyInjection": {
               "target": "Package",
-              "version": "[13.0.1, )"
+              "version": "[4.0.0, )"
             },
-            "CloudinaryDotNet": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[1.26.2, )"
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -80,11 +84,13 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
-            "Microsoft.EntityFrameworkCore.Relational": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.0, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
             },
@@ -94,7 +100,11 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[7.1.0, )"
+              "version": "[6.6.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.2.1, )"
             }
           },
           "imports": [

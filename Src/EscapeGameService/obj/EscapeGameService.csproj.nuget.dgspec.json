@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\NotificationService.csproj": {}
+    "C:\\Users\\quentin\\EscapeGame\\EscapeGameNextDoor\\Src\\EscapeGameService\\EscapeGameService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\NotificationService.csproj": {
+    "C:\\Users\\quentin\\EscapeGame\\EscapeGameNextDoor\\Src\\EscapeGameService\\EscapeGameService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\NotificationService.csproj",
-        "projectName": "NotificationService",
-        "projectPath": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\NotificationService.csproj",
+        "projectUniqueName": "C:\\Users\\quentin\\EscapeGame\\EscapeGameNextDoor\\Src\\EscapeGameService\\EscapeGameService.csproj",
+        "projectName": "EscapeGameService",
+        "projectPath": "C:\\Users\\quentin\\EscapeGame\\EscapeGameNextDoor\\Src\\EscapeGameService\\EscapeGameService.csproj",
         "packagesPath": "C:\\Users\\quentin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\Notificaton\\obj\\",
+        "outputPath": "C:\\Users\\quentin\\EscapeGame\\EscapeGameNextDoor\\Src\\EscapeGameService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -66,9 +66,9 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+            "CloudinaryDotNet": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[1.26.2, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -80,13 +80,11 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
               "version": "[9.0.0, )"
             },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.0, )"
             },
@@ -96,7 +94,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.6.2, )"
+              "version": "[7.1.0, )"
             }
           },
           "imports": [

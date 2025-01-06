@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\UserService\\UserService.csproj": {}
+    "C:\\Users\\quentin\\EscapeGame\\EscapeGameNextDoor\\Src\\Notificaton\\NotificationService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\UserService\\UserService.csproj": {
+    "C:\\Users\\quentin\\EscapeGame\\EscapeGameNextDoor\\Src\\Notificaton\\NotificationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\UserService\\UserService.csproj",
-        "projectName": "UserService",
-        "projectPath": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\UserService\\UserService.csproj",
+        "projectUniqueName": "C:\\Users\\quentin\\EscapeGame\\EscapeGameNextDoor\\Src\\Notificaton\\NotificationService.csproj",
+        "projectName": "NotificationService",
+        "projectPath": "C:\\Users\\quentin\\EscapeGame\\EscapeGameNextDoor\\Src\\Notificaton\\NotificationService.csproj",
         "packagesPath": "C:\\Users\\quentin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\quentin\\source\\repos\\EscapeGameProject\\UserService\\obj\\",
+        "outputPath": "C:\\Users\\quentin\\EscapeGame\\EscapeGameNextDoor\\Src\\Notificaton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,17 +62,13 @@
               "target": "Package",
               "version": "[7.30.0, )"
             },
-            "Auth0Net.DependencyInjection": {
+            "AutoMapper": {
               "target": "Package",
-              "version": "[4.0.0, )"
+              "version": "[13.0.1, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[8.0.0, )"
-            },
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.11, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -101,10 +97,6 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
-            },
-            "System.IdentityModel.Tokens.Jwt": {
-              "target": "Package",
-              "version": "[8.2.1, )"
             }
           },
           "imports": [
